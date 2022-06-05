@@ -2,4 +2,4 @@
 
 My solution to frontend mentor challenge Advice generator app
 
-The deployed site can be viewed [here]
+The deployed site can be viewed [here](https://advice-gen-js.netlify.app/)
